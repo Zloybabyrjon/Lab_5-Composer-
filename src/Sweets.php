@@ -1,6 +1,6 @@
 <?php
 
-namespace Sweets;
+namespace Egor\Chocolate;
 
 class Sweets
 {

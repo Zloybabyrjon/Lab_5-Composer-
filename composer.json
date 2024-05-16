@@ -1,0 +1,19 @@
+{
+    "name": "egor/chocolate",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Egor\\Chocolate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kazakov Egor",
+            "email": "egortumanov812@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.11",
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
